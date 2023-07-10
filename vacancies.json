@@ -1,0 +1,1744 @@
+{
+  "items": [
+    {
+      "id": "83102506",
+      "premium": false,
+      "name": "Заместитель Генерального директора",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "159",
+        "name": "Астана",
+        "url": "https://api.hh.ru/areas/159"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-06T15:19:40+0300",
+      "created_at": "2023-07-06T15:19:40+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83102506",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83102506?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83102506",
+      "relations": [],
+      "employer": {
+        "id": "5109356",
+        "name": "Системы Нефть и Газ",
+        "url": "https://api.hh.ru/employers/5109356",
+        "alternate_url": "https://hh.ru/employer/5109356",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/820146.JPG",
+          "240": "https://hhcdn.ru/employer-logo/3721472.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3721471.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5109356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее финансовое образование. Опыт работы в руководящей должности не менее 5-ти лет. Опыт работы в компаниях с видом деятельности...",
+        "responsibility": "Полное управление коммерческой и хозяйственной деятельностью предприятия. Организация эффективной работы и взаимодействия всех структурных подразделений, ориентация их деятельности на развитие..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "135",
+          "name": "Финансовый директор (CFO)"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "81740989",
+      "premium": false,
+      "name": "Монтажник слаботочных систем",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 89000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-09T10:45:38+0300",
+      "created_at": "2023-06-09T10:45:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81740989",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/81740989?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81740989",
+      "relations": [],
+      "employer": {
+        "id": "198614",
+        "name": "Вега-ГАЗ",
+        "url": "https://api.hh.ru/employers/198614",
+        "alternate_url": "https://hh.ru/employer/198614",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2381377.png",
+          "90": "https://hhcdn.ru/employer-logo/2381376.png",
+          "original": "https://hhcdn.ru/employer-logo-original/484881.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=198614",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Умение читать чертежи и схемы. Опыт работы с ручным электроинструментом. Знание требований ПУЭ и СП по видам работ. ",
+        "responsibility": "Монтаж систем автоматизации и телемеханизации (КИП и А), электромонтаж слаботочных систем на объектах автоматизации ОАО \"Газпром\" и других промышленных предприятий..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "78",
+          "name": "Монтажник"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "83163471",
+      "premium": false,
+      "name": "Ведущий менеджер по комплектации",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "41",
+        "name": "Калининград",
+        "url": "https://api.hh.ru/areas/41"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Калининград",
+        "street": "Портовая улица",
+        "building": "41",
+        "lat": 54.704066,
+        "lng": 20.493303,
+        "description": null,
+        "raw": "Калининград, Портовая улица, 41",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5293560"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-07T16:53:58+0300",
+      "created_at": "2023-07-07T16:53:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83163471",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83163471?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83163471",
+      "relations": [],
+      "employer": {
+        "id": "5109356",
+        "name": "Системы Нефть и Газ",
+        "url": "https://api.hh.ru/employers/5109356",
+        "alternate_url": "https://hh.ru/employer/5109356",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/820146.JPG",
+          "240": "https://hhcdn.ru/employer-logo/3721472.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3721471.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5109356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "высшее /профессиональное (техническое) образование. - опыт работы в закупках от 3-х лет, предпочтение закупки для производства. - опыт договорной работы, работы...",
+        "responsibility": "осуществлять поиск поставщиков, ориентируясь на качество предлагаемых материально-технических ресурсов, цену, сроки поставок, благоприятные условия поставок. -- подготавливать и корректировать преддоговорную..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "66",
+          "name": "Менеджер по закупкам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "83107554",
+      "premium": false,
+      "name": "Начальник отдела закупок",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "159",
+        "name": "Астана",
+        "url": "https://api.hh.ru/areas/159"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-06T15:59:54+0300",
+      "created_at": "2023-07-06T15:59:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83107554",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83107554?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83107554",
+      "relations": [],
+      "employer": {
+        "id": "5109356",
+        "name": "Системы Нефть и Газ",
+        "url": "https://api.hh.ru/employers/5109356",
+        "alternate_url": "https://hh.ru/employer/5109356",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/820146.JPG",
+          "240": "https://hhcdn.ru/employer-logo/3721472.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3721471.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5109356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Отличное знание рынка технологического оборудования. Опыт работы в закупках от 5 лет. Высшее техническое образование.",
+        "responsibility": "поиск поставщиков технологического оборудования. - выстраивание взаимоотношений с поставщиками технологического оборудования. - формирование базы надежных поставщиков. - организация и проверка качества поставок технологического..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "66",
+          "name": "Менеджер по закупкам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "79085421",
+      "premium": false,
+      "name": "Менеджер по продажам промышленного оборудования (b2b сегмент)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Свободы",
+        "building": "50",
+        "lat": 55.849544,
+        "lng": 37.453774,
+        "description": null,
+        "raw": "Москва, улица Свободы, 50",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7258088"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-04T13:50:30+0300",
+      "created_at": "2023-07-04T13:50:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79085421",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/79085421?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/79085421",
+      "relations": [],
+      "employer": {
+        "id": "6019051",
+        "name": "АТ-Газ",
+        "url": "https://api.hh.ru/employers/6019051",
+        "alternate_url": "https://hh.ru/employer/6019051",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/941361.png",
+          "240": "https://hhcdn.ru/employer-logo/4205985.png",
+          "90": "https://hhcdn.ru/employer-logo/4205984.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6019051",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы с ключевыми клиентами, участие в отраслевых тендерах. Опыт ведения проектных продаж на всех этапах сделки. Опыт в продажах...",
+        "responsibility": "Переговоры с лидерами отечественного рынка промышленного оборудования."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82766042",
+      "premium": false,
+      "name": "Бухгалтер на участок банк-клиент",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 80000,
+        "to": 85000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Тверская улица",
+        "building": "18к1",
+        "lat": 55.766131,
+        "lng": 37.604205,
+        "description": null,
+        "raw": "Москва, Тверская улица, 18к1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13514124"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-29T14:07:42+0300",
+      "created_at": "2023-06-29T14:07:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82766042",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82766042?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82766042",
+      "relations": [],
+      "employer": {
+        "id": "9927609",
+        "name": "Газ Ойл Констракшн",
+        "url": "https://api.hh.ru/employers/9927609",
+        "alternate_url": "https://hh.ru/employer/9927609",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9927609",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование. Знание программы 1с 8.3. Знание обособленных и специальных счетов в банках и их специфики работы. ",
+        "responsibility": "Проверка и подготовка согласованных реестров оплат (реквизиты , наименование к/а, назначение, наличие договора). Работа с несколькими банками. Подготовка платежных поручений..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "18",
+          "name": "Бухгалтер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82633096",
+      "premium": false,
+      "name": "Управляющий проектами в нефтегазовой отрасли",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Вавилова",
+        "building": "47 А",
+        "lat": 55.692901,
+        "lng": 37.566818,
+        "description": null,
+        "raw": "Москва, Вавилова, 47 А",
+        "metro": {
+          "station_name": "Академическая",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.3",
+          "line_id": "6",
+          "lat": 55.687147,
+          "lng": 37.5723
+        },
+        "metro_stations": [
+          {
+            "station_name": "Академическая",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.3",
+            "line_id": "6",
+            "lat": 55.687147,
+            "lng": 37.5723
+          }
+        ],
+        "id": "5293571"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-28T11:19:54+0300",
+      "created_at": "2023-06-28T11:19:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82633096",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82633096?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82633096",
+      "relations": [],
+      "employer": {
+        "id": "5109356",
+        "name": "Системы Нефть и Газ",
+        "url": "https://api.hh.ru/employers/5109356",
+        "alternate_url": "https://hh.ru/employer/5109356",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/820146.JPG",
+          "240": "https://hhcdn.ru/employer-logo/3721472.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3721471.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5109356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее техническое образование. Опыт работы с системами управления автоматизации на предприятиях нефтегазовой и машиностроительной отрасли. Опыт работы в организациях, эксплуатирующих...",
+        "responsibility": "Подготовка проектов договоров. Контроль исполнения договоров. Планирование проекта (распределение объемов работ, определение сроков и последовательности выполнения этапов работ). "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "47",
+          "name": "Инженер ПТО, инженер-сметчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "83109870",
+      "premium": false,
+      "name": "Менеджер по логистике",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "159",
+        "name": "Астана",
+        "url": "https://api.hh.ru/areas/159"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-06T16:33:11+0300",
+      "created_at": "2023-07-06T16:33:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83109870",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83109870?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83109870",
+      "relations": [],
+      "employer": {
+        "id": "5109356",
+        "name": "Системы Нефть и Газ",
+        "url": "https://api.hh.ru/employers/5109356",
+        "alternate_url": "https://hh.ru/employer/5109356",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/820146.JPG",
+          "240": "https://hhcdn.ru/employer-logo/3721472.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3721471.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5109356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Готовность быть на связи. Знание английского языка письменно/устно. Не конфликтность. Умение работать в режиме многозадачности. Знание MS Office, Word...",
+        "responsibility": "Организация и координация грузоперевозок в РФ. Составление маршрутов транспортировки грузов. Управление складскими запасами и заказами;Ведение документооборота (как правило, в..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "67",
+          "name": "Менеджер по логистике, менеджер по ВЭД"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82368491",
+      "premium": false,
+      "name": "Специалист по кадрам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2085",
+        "name": "Долгопрудный",
+        "url": "https://api.hh.ru/areas/2085"
+      },
+      "salary": {
+        "from": 80000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Долгопрудный",
+        "street": "Лихачёвский проезд",
+        "building": "4с1",
+        "lat": 55.922383,
+        "lng": 37.514275,
+        "description": null,
+        "raw": "Долгопрудный, Лихачёвский проезд, 4с1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13642928"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-25T13:21:09+0300",
+      "created_at": "2023-06-25T13:21:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82368491",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82368491?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82368491",
+      "relations": [],
+      "employer": {
+        "id": "5915719",
+        "name": "ГАЗ-КОМФОРТ",
+        "url": "https://api.hh.ru/employers/5915719",
+        "alternate_url": "https://hh.ru/employer/5915719",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5915719",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание законодательных и нормативных правовых актов, методических материалов по управлению персоналом, трудового законодательства, структуры и штата предприятия, его профиля, специализации...",
+        "responsibility": "Осуществлять поиск и подбор работников. Проводить собеседования. Оформлять прием нового персонала. Проводить адаптационные встречи с новыми сотрудниками. Вести кадровый учет..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "117",
+          "name": "Специалист по кадрам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82239195",
+      "premium": false,
+      "name": "Электрогазосварщик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 120000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-21T13:39:30+0300",
+      "created_at": "2023-06-21T13:39:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82239195",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82239195?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82239195",
+      "relations": [],
+      "employer": {
+        "id": "198614",
+        "name": "Вега-ГАЗ",
+        "url": "https://api.hh.ru/employers/198614",
+        "alternate_url": "https://hh.ru/employer/198614",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2381377.png",
+          "90": "https://hhcdn.ru/employer-logo/2381376.png",
+          "original": "https://hhcdn.ru/employer-logo-original/484881.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=198614",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы от 3 лет. Образование - не ниже среднего специального. Квалификационный разряд: от 4 . Рассматриваем кандидатов с меньшим опытом и...",
+        "responsibility": "Выполнение сварочно-монтажных работ на объектах ПАО \"Газпром\" и других промышленных предприятий топливно-энергетического комплекса. Способ сварки РД; РАД."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "109",
+          "name": "Сварщик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "81958789",
+      "premium": false,
+      "name": "Разнорабочий",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 40000,
+        "to": 55000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Никулинская улица",
+        "building": "13А",
+        "lat": 55.663019,
+        "lng": 37.449309,
+        "description": null,
+        "raw": "Москва, Никулинская улица, 13А",
+        "metro": {
+          "station_name": "Озёрная",
+          "line_name": "Солнцевская",
+          "station_id": "133.608",
+          "line_id": "133",
+          "lat": 55.6698,
+          "lng": 37.4495
+        },
+        "metro_stations": [
+          {
+            "station_name": "Озёрная",
+            "line_name": "Солнцевская",
+            "station_id": "133.608",
+            "line_id": "133",
+            "lat": 55.6698,
+            "lng": 37.4495
+          }
+        ],
+        "id": "13579728"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-15T13:26:09+0300",
+      "created_at": "2023-06-15T13:26:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=81958789",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/81958789?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/81958789",
+      "relations": [],
+      "employer": {
+        "id": "9962640",
+        "name": "Лидер ГАЗ",
+        "url": "https://api.hh.ru/employers/9962640",
+        "alternate_url": "https://hh.ru/employer/9962640",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9962640",
+        "accredited_it_employer": false,
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "Ответственность, исполнительность, готовность к физическому труду. Без опыта работы. Внимательность. Аккуратность. Желание развиваться в крупной компании.",
+        "responsibility": "Погрузка-разгрузка ,перемещение грузов и предметов, очистка и поддержание порядка на рабочем месте. Постоянное присутствие на объекте.в рабочее время. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "102",
+          "name": "Разнорабочий"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82282010",
+      "premium": false,
+      "name": "Менеджер по продажам (b2b)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 200000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Московское центральное кольцо",
+        "building": "станция Зорге",
+        "lat": 55.789158,
+        "lng": 37.504223,
+        "description": null,
+        "raw": "Москва, Московское центральное кольцо, станция Зорге",
+        "metro": {
+          "station_name": "Зорге",
+          "line_name": "МЦК",
+          "station_id": "95.540",
+          "line_id": "95",
+          "lat": 55.787778,
+          "lng": 37.504444
+        },
+        "metro_stations": [
+          {
+            "station_name": "Зорге",
+            "line_name": "МЦК",
+            "station_id": "95.540",
+            "line_id": "95",
+            "lat": 55.787778,
+            "lng": 37.504444
+          },
+          {
+            "station_name": "Октябрьское поле",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.95",
+            "line_id": "7",
+            "lat": 55.793581,
+            "lng": 37.493317
+          }
+        ],
+        "id": "13349511"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-07T11:22:54+0300",
+      "created_at": "2023-07-07T11:22:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82282010",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82282010?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82282010",
+      "relations": [],
+      "employer": {
+        "id": "1303140",
+        "name": "Сибирский Газ",
+        "url": "https://api.hh.ru/employers/1303140",
+        "alternate_url": "https://hh.ru/employer/1303140",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3925767.png",
+          "240": "https://hhcdn.ru/employer-logo/3925768.png",
+          "original": "https://hhcdn.ru/employer-logo-original/871223.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1303140",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в продажах от 1 года (Желателен, но необязателен. Рассматриваем начинающих специалистов). Желание продавать. Умение находить контакт с людьми...",
+        "responsibility": "Активные телефонные продажи (прием входящих звонков, развитие и расширение существующей клиентской базы). Сопровождение сделки на всех ее этапах (составление коммерческих..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82530881",
+      "premium": false,
+      "name": "Управляющий автосервисом",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": 300000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "3-й Силикатный проезд",
+        "building": "6к1",
+        "lat": 55.769499,
+        "lng": 37.500495,
+        "description": null,
+        "raw": "Москва, 3-й Силикатный проезд, 6к1",
+        "metro": {
+          "station_name": "Хорошево",
+          "line_name": "МЦК",
+          "station_id": "95.539",
+          "line_id": "95",
+          "lat": 55.777222,
+          "lng": 37.507222
+        },
+        "metro_stations": [
+          {
+            "station_name": "Хорошево",
+            "line_name": "МЦК",
+            "station_id": "95.539",
+            "line_id": "95",
+            "lat": 55.777222,
+            "lng": 37.507222
+          }
+        ],
+        "id": "1610140"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-27T12:13:32+0300",
+      "created_at": "2023-06-27T12:13:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82530881",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82530881?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82530881",
+      "relations": [],
+      "employer": {
+        "id": "2774112",
+        "name": "ГАРАНТ-ГАЗ",
+        "url": "https://api.hh.ru/employers/2774112",
+        "alternate_url": "https://hh.ru/employer/2774112",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2774112",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы, коммуникабельность,знание управленческого учета и современных инструментов развития бизнеса, желание расти и развиваться вместе с компанией,собственная дисциплинированность...",
+        "responsibility": "Управление независимым автотехцентром \"БАГИРА-МОТОРС\" . Усиление и развитие всех бизнес процессов на действующем,но запущенном предприятии.Систематизация инвентаризаций и прочих обязательных..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82545187",
+      "premium": false,
+      "name": "Специалист по работе с поставщиками",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Свободы",
+        "building": "50",
+        "lat": 55.849544,
+        "lng": 37.453774,
+        "description": null,
+        "raw": "Москва, улица Свободы, 50",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7258088"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-05T09:53:27+0300",
+      "created_at": "2023-07-05T09:53:27+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82545187",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82545187?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82545187",
+      "relations": [],
+      "employer": {
+        "id": "6019051",
+        "name": "АТ-Газ",
+        "url": "https://api.hh.ru/employers/6019051",
+        "alternate_url": "https://hh.ru/employer/6019051",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/941361.png",
+          "240": "https://hhcdn.ru/employer-logo/4205985.png",
+          "90": "https://hhcdn.ru/employer-logo/4205984.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6019051",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Свободное владение английским языком. Опыт закупочной деятельности.",
+        "responsibility": "Обработка запросов коммерческих подразделений на поиск производителей оборудования по заданным критериям (основные заказчики Газпром, Лукойл,Роснефть и пр.) . "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82674340",
+      "premium": false,
+      "name": "Кассир АЗС",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2761",
+        "name": "Селятино",
+        "url": "https://api.hh.ru/areas/2761"
+      },
+      "salary": {
+        "from": 55000,
+        "to": 65000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "деревня Жёдочи",
+        "street": null,
+        "building": null,
+        "lat": 55.47226634957083,
+        "lng": 37.07259750464599,
+        "description": null,
+        "raw": "деревня Жёдочи",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13121195"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-07T16:40:41+0300",
+      "created_at": "2023-07-07T16:40:41+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82674340",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82674340?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82674340",
+      "relations": [],
+      "employer": {
+        "id": "9753926",
+        "name": "Вск-Газ",
+        "url": "https://api.hh.ru/employers/9753926",
+        "alternate_url": "https://hh.ru/employer/9753926",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9753926",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы не обязателен. Пунктуальность,честность.",
+        "responsibility": "Отпуск топлива и продукции магазина. Работа в кафе на АЗС. Выкладка и отслеживание сроков годности товаров."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "97",
+          "name": "Продавец-консультант, продавец-кассир"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82976231",
+      "premium": false,
+      "name": "Менеджер по закупке автомобильных запчастей",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 80000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "3-й Силикатный проезд",
+        "building": "6к1",
+        "lat": 55.769499,
+        "lng": 37.500495,
+        "description": null,
+        "raw": "Москва, 3-й Силикатный проезд, 6к1",
+        "metro": {
+          "station_name": "Хорошево",
+          "line_name": "МЦК",
+          "station_id": "95.539",
+          "line_id": "95",
+          "lat": 55.777222,
+          "lng": 37.507222
+        },
+        "metro_stations": [
+          {
+            "station_name": "Хорошево",
+            "line_name": "МЦК",
+            "station_id": "95.539",
+            "line_id": "95",
+            "lat": 55.777222,
+            "lng": 37.507222
+          }
+        ],
+        "id": "1610140"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-04T13:47:55+0300",
+      "created_at": "2023-07-04T13:47:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82976231",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82976231?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82976231",
+      "relations": [],
+      "employer": {
+        "id": "2774112",
+        "name": "ГАРАНТ-ГАЗ",
+        "url": "https://api.hh.ru/employers/2774112",
+        "alternate_url": "https://hh.ru/employer/2774112",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2774112",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в запчастях. Умение работать с каталогами и комп программами. Дисциплинированность.",
+        "responsibility": "Оперативный подбор и закупка автомобильных запасных частей мультибренд у ведущих поставщиков российского рынка. Продажа авто запчастей частным и корпоративным клиентам..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "62",
+          "name": "Мастер-приемщик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82714944",
+      "premium": false,
+      "name": "Старший бухгалтер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 80000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Тверская улица",
+        "building": "18к1",
+        "lat": 55.766131,
+        "lng": 37.604205,
+        "description": null,
+        "raw": "Москва, Тверская улица, 18к1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13514124"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-29T07:53:40+0300",
+      "created_at": "2023-06-29T07:53:40+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82714944",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82714944?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82714944",
+      "relations": [],
+      "employer": {
+        "id": "9927609",
+        "name": "Газ Ойл Констракшн",
+        "url": "https://api.hh.ru/employers/9927609",
+        "alternate_url": "https://hh.ru/employer/9927609",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9927609",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание ПБУ, ФСБУ, плана и корреспонденции счетов, налогового и бухгалтерского законодательства. Знание программ 1С 8.3; офисных приложений. ",
+        "responsibility": "Формирование пакета документов реализации по прочим операциям (ТМЦ, Услуги). Проведение и контроль расчетов с подрядными организациями. - Списание ГСМ, учет расчетов..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "18",
+          "name": "Бухгалтер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82055128",
+      "premium": false,
+      "name": "Водитель Хино категории В",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Юрловский проезд",
+        "building": "2с1",
+        "lat": 55.864455,
+        "lng": 37.629897,
+        "description": null,
+        "raw": "Москва, Юрловский проезд, 2с1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "12852997"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-06-16T17:40:41+0300",
+      "created_at": "2023-06-16T17:40:41+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82055128",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82055128?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82055128",
+      "relations": [],
+      "employer": {
+        "id": "1372431",
+        "name": "Газ Вэлдинг",
+        "url": "https://api.hh.ru/employers/1372431",
+        "alternate_url": "https://hh.ru/employer/1372431",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1372431",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Водитель категории В с опытом работы на газель, соболь, хино.( авто - пpeдоставляется ).",
+        "responsibility": "Развоз технических газов и сварочного оборудования по объектам."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "82409046",
+      "premium": false,
+      "name": "Заправщик газовых баллонов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 55000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Очаковское шоссе",
+        "building": null,
+        "lat": 55.690694,
+        "lng": 37.450144,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе",
+        "metro": {
+          "station_name": "Аминьевская",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.812",
+          "line_id": "97",
+          "lat": 55.697222,
+          "lng": 37.464167
+        },
+        "metro_stations": [
+          {
+            "station_name": "Аминьевская",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.812",
+            "line_id": "97",
+            "lat": 55.697222,
+            "lng": 37.464167
+          },
+          {
+            "station_name": "Мичуринский проспект",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.813",
+            "line_id": "97",
+            "lat": 55.688333,
+            "lng": 37.485
+          },
+          {
+            "station_name": "Мичуринский проспект",
+            "line_name": "Солнцевская",
+            "station_id": "133.607",
+            "line_id": "133",
+            "lat": 55.6888,
+            "lng": 37.485
+          }
+        ],
+        "id": "7146589"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-08T11:00:08+0300",
+      "created_at": "2023-07-08T11:00:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=82409046",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/82409046?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/82409046",
+      "relations": [],
+      "employer": {
+        "id": "1303140",
+        "name": "Сибирский Газ",
+        "url": "https://api.hh.ru/employers/1303140",
+        "alternate_url": "https://hh.ru/employer/1303140",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3925767.png",
+          "240": "https://hhcdn.ru/employer-logo/3925768.png",
+          "original": "https://hhcdn.ru/employer-logo-original/871223.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1303140",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "ОПЫТ РАБОТЫ НЕ ТРЕБУЕТСЯ, ВСЕМУ ОБУЧАЕМ. Желание обучаться и работать. Наличие диплома о среднем профессиональном образовании и выше будет Вашим...",
+        "responsibility": "Заправка газовых баллонов. Работа на складе."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "83142178",
+      "premium": false,
+      "name": "Слесарь механосборочных работ",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2036",
+        "name": "Московский",
+        "url": "https://api.hh.ru/areas/2036"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Московский",
+        "street": "улица Хабарова",
+        "building": "2",
+        "lat": 55.593868,
+        "lng": 37.351896,
+        "description": null,
+        "raw": "Московский, улица Хабарова, 2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5293559"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-07-07T12:04:31+0300",
+      "created_at": "2023-07-07T12:04:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=83142178",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/83142178?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/83142178",
+      "relations": [],
+      "employer": {
+        "id": "5109356",
+        "name": "Системы Нефть и Газ",
+        "url": "https://api.hh.ru/employers/5109356",
+        "alternate_url": "https://hh.ru/employer/5109356",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/820146.JPG",
+          "240": "https://hhcdn.ru/employer-logo/3721472.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3721471.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5109356",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование не ниже среднего профессионального. Знание конструкций, принцип работы сложных машин, станков, агрегатов и аппаратов. Умение работать в тандеме со...",
+        "responsibility": "Производство, сборка, регулировка, испытание и сдача в соответствии с техническими условиями приборов, деталей и узлов различных материалов. Проведение гидравлических испытаний..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "115",
+          "name": "Слесарь, сантехник"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    }
+  ],
+  "found": 61,
+  "pages": 4,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?employer_id=6019051&employer_id=198614&employer_id=9753926&employer_id=1372431&employer_id=5915719&employer_id=9927609&employer_id=2774112&employer_id=9962640&employer_id=3246472&employer_id=1303140&employer_id=5109356&employer_id=297884&enable_snippets=true"
+}
