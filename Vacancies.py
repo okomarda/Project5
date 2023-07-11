@@ -51,7 +51,7 @@ class Vacancies:
                     salary INT,
                     url_vacancy TEXT,
 
-                    CONSTRAINT fk_vacancies_employers FOREIGN KEY(employer_id) REFERENCES employers(employer_id)
+                    CONSTRAINT fk_vacancies_employers FOREIGN KEY(employer_id) REFERENCES employers(employer_id) ON DELETE CASCADE
                 )
             """)
         conn.commit ( )
