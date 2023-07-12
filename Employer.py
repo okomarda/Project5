@@ -71,7 +71,7 @@ class Employers():
     def load_employer_data(self, json_file: str) -> list[dict]:
         """Извлекает данные о работодателях из JSON-файла и возвращает список словарей с соответствующей информацией."""
         all_data = []
-        with open (json_file, 'r') as f:
+        with open (json_file, 'r', encoding='windows-1251') as f:
           data_json = json.load(f)['items']
           for row in data_json:
              row_list_data = list(row.values ( ))
